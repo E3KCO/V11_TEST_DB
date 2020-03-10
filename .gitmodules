@@ -1,0 +1,4 @@
+[submodule "mrp_mto_with_stock"]
+	path = mrp_mto_with_stock
+	url = git@github.com:E3KCO/mrp_mto_with_stock.git
+	branch = 12.0
